@@ -7,6 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <center>
+        <h2>Ingresa tus datos a continuación:</h2>
+        <input type="text" placeholder="Usuario">
+        <input type="text" placeholder="Contraseña">
+        <button type="button">Ingresar</button>
+    </center>
 </body>
 </html>
