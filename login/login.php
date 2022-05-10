@@ -1,12 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Formulario Login</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+  </head>
+  <body>
+    <section class="form-login">
+      <h5>Formulario Login</h5>
+      <input class="controls" type="text" name="usuario" value="" placeholder="Usuario">
+      <input class="controls" type="password" name="contrasena" value="" placeholder="Contraseña">
+      <input class="buttons" type="submit" name="" value="Ingresar">
+      <p><a href="#">¿Olvidastes tu Contraseña?</a></p>
+
+    </section>
+
+  </body>
 </html>
