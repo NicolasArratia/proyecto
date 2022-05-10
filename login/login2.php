@@ -9,7 +9,7 @@
     <section class="form-login">
       <h5>Formulario Login</h5>
       <h5>Que tipo de cliente eres?</h5>
-      <button type="button" class="btn btn-primary">Botón</button>
+      
       <input class="buttons" type="button" name="" value="Administrador ">
       <input class="buttons" type="button" name="" value="Usuario">
       <p><a href="#">¿no eres ninguno ?</a></p>
