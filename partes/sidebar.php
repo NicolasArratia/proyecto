@@ -7,6 +7,9 @@
                 <a href="../" class="d-block text-light p-3 border-0"><i class="fas fa-tachometer-alt"></i>
                     Inicio</a>
 
+                <a href="../" class="d-block text-light p-3 border-0"><i class="fas fa-tachometer-alt"></i>
+                    gastos2</a>
+
                 <a href="../" class="d-block text-light p-3 border-0"><i class="fas fa-users"></i>
                     Usuarios</a>
 
