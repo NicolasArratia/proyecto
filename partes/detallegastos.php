@@ -77,20 +77,13 @@
                     </div>
                 </div>
               </section>
-
+            
               <section>
                   <div class="container">
                       <div class="row">
-                          <div class="col-lg-8 my-3">
-                              <div class="card rounded-0">
-                                  <div class="card-header bg-light">
-                                    <h6 class="font-weight-bold mb-0">Número de equipos</h6>
-                                  </div>
-                                  <div class="card-body">
-                                    <canvas id="myChart" width="300" height="150"></canvas>
-                                  </div>
-                              </div>
-                          </div>
+                          
+
+                          
                           <div class="col-lg-4 my-3">
                             <div class="card rounded-0">
                                 <div class="card-header bg-light">
@@ -117,7 +110,7 @@
                                     </div>
                                     
                                     
-                                    <button class="btn btn-primary w-100">Ver todas</button>
+                                    <button class="btn btn-primary w-100">Pagar</button>
                                 </div>
                             </div>
                           </div>
