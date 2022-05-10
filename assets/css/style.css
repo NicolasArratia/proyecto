@@ -97,7 +97,7 @@ a:hover {
   .form-login {
     width: 400px;
     height: auto;
-    background: #ff0000;
+    background: #35aac7;
     margin: auto;
     margin-top: 180px;
     box-shadow: 7px 13px 37px #000;
@@ -174,4 +174,10 @@ a:hover {
   
   .form-login a:hover {
     text-decoration: underline;
+  }
+
+
+
+  .textoderecho{
+      text-align: end;
   }

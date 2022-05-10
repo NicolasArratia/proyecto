@@ -248,12 +248,21 @@
                                     <button class="btn btn-primary w-100">Ver Mas</button>
                                 </div>
                             </div>
-                            
+                            <br>
+                            <div class="card rounded-0">
+                                  <div class="card-header bg-light">
+                                    <h6 class="font-weight-bold mb-0">pago de gastos comunes</h6>
+                                  </div>
+                                  <div class="card-body">
+                                    <canvas id="myChart" width="300" height="150"></canvas>
+                                  </div>
+                              </div>
+
                       </div>
                       </div>
                       
                   </div>
-
+            
                   
               </section>
 
