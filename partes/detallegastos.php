@@ -218,7 +218,7 @@
                                 </div>
                             </div>
 
-
+                            <!-- fecha limite de pago-->
                             </div>
                             <div class="col-lg-4 my-3">
                             <div class="card rounded-0">
